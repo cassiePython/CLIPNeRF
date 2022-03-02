@@ -1,4 +1,4 @@
-# CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields
+# CVPR2022: CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields
 
 <img src='https://cassiepython.github.io/clipnerf/images/teaser.gif'/>
 
