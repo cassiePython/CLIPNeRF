@@ -2,7 +2,7 @@
 
 <img src='https://cassiepython.github.io/clipnerf/images/teaser.gif'/>
 
-### [Project Page](https://github.com/cassiePython/CLIPNeRF) | [Paper (ArXiv)](https://arxiv.org/abs/2112.05139)
+### [Project Page](https://cassiepython.github.io/clipnerf/) | [Paper (ArXiv)](https://arxiv.org/abs/2112.05139)
 
 
 [Can Wang](https://cassiepython.github.io/)<sup>1</sup>,
