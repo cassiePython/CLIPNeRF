@@ -31,7 +31,7 @@ python run_nerf_clip.py --config configs/lego.txt --use_clip --w_clip 1.0
 
 You can try different parameters by yourself to achieve different editing results. You will find results in the logs directory.
 
-Note: Please try other parameters to obtain a desired color. For example, please add use_alpha, use_feature, and use_view to change the color to red.
+Note: For color green, you can directly use the above order. But please try other parameters to obtain a desired color. For example, please add use_alpha, use_feature, and use_view to change the color to red.
 Sample_scale is also a critical factor to influence the result. 
 
 ## Results
